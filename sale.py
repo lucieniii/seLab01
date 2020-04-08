@@ -1,1 +1,1 @@
-print("sell")
+print("sell 1")
